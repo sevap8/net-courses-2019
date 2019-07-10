@@ -1,5 +1,12 @@
-test content
-update1
-
-update2
-update3
+using System;
+namespace supaTest
+{
+    class Program
+    {
+        void main(string[] args)
+        {
+            Console.WriteLine("Hello, EPAM!");
+            return 0;
+        }
+    }
+}

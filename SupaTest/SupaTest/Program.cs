@@ -10,7 +10,7 @@ namespace SupaTest
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, EPAM!");
+            Console.WriteLine("Привет, EPAM!");
             Console.ReadLine();
         }
     }
